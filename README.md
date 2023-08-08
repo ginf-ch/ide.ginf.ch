@@ -1,2 +1,5 @@
-# ide.ginf.ch
-Installationsanleitung für PyCharm
+# Installationsanleitung für Python
+
+- macOS
+  - PyCharm Community Edition
+  - PyCharm Professional
