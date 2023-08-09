@@ -45,7 +45,7 @@ if (isset($version)) {
             $alt = "xkcd_an_apple_a_day_2x";
             $imgTitle = "Even the powerful, tart Granny Smith cultivar is proving ineffective against new Gran-negative doctors.";
         } else {
-            include("windows.html");
+            include("windows.php");
             $title = "Estimation";
             $href = "https://xkcd.com/612/";
             $src = "estimation.png";
@@ -58,7 +58,7 @@ if (isset($version)) {
 </main>
 <footer class="footer">
     <?php
-    include("footer.html");
+    include("footer.php");
     ?>
 </footer>
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>

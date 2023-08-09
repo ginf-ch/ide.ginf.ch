@@ -6,7 +6,7 @@ for ($i = 1; $i <= $numberOfSteps; $i++) {
     $prefix = $i <= 9 ? "0$i" : "$i";
     $postfix = $i;
     echo "
-<div id='macos_step_$postfix' class='modal'>
+<div id='$os" . "_step_$postfix' class='modal'>
     <div class='modal-background'></div>
     
     <div class='modal-content' >

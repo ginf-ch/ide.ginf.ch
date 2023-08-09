@@ -11,9 +11,9 @@ foreach ($steps as $stepKey => $stepValue) {
     $description = $stepValue;
     $dataAosImg = $fading[array_rand($fading)];
     $dataAosDescription = $fading[array_rand($fading)];
-    $bgCssClass = $stepNumber % 2 == 0 ? "" : "has-background-white-ter";
+    $bgCssClass = $stepNumber % 2 == 0 ? "" : " has-background-white-ter";
     ?>
-    <section class="hero is-fullheight <?php echo $bgCssClass; ?>" id="<?php echo "$os-$stepNumber" ?>">
+    <section class="hero is-fullheight<?php echo $bgCssClass; ?>" id="<?php echo "$os-$stepNumber" ?>">
         <div class="hero-body">
             <div class="container">
                 <div class="columns is-vcentered">

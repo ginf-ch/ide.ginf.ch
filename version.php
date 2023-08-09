@@ -5,7 +5,7 @@ $searchParams = $_SERVER['QUERY_STRING'];
     <div class="hero-body">
         <div class="container">
             <div class="columns is-centered">
-                <div class="column is-half has-text-centered">
+                <div class="column is-two-thirds-desktop has-text-centered">
                     <h1 class="title is-size-1 is-size-4-mobile">
                         PyCharm Version?<br>
                         Entscheiden Sie <a class="has-text-black" href="https://www.youtube.com/watch?v=8Ppo5YIYwTM"

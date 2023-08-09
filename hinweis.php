@@ -9,7 +9,7 @@ global $browserExample;
     <div class="hero-body">
         <div class="container">
             <div class="columns is-centered">
-                <div class="column is-half has-text-centered">
+                <div class="column is-two-thirds-desktop has-text-centered">
                     <h1 class="title mb-6 is-1 has-text-black">
                         Hinweis
                     </h1>

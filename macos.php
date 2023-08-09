@@ -21,7 +21,7 @@ if ($version == "pro") {
         'Bestätigen Sie das Öffnen des Programms, indem Sie auf <q>Öffnen</q> klicken.',
         'Bestätigen Sie das <q>PyCharm User Agreement</q> durch das Anwählen der Checkbox. Klicken Sie anschliessend auf <q>Continue</q>.',
         "Falls Sie einen Dialog zu <q>Data Sharing</q> sehen, dann fahren Sie mit einem Klick auf <q>Don't Send</q> fort.",
-        "Die Installation ist nun beendet. Schliessen Sie das Programm mit einem Klick auf <q>Exit</q>."
+        "Das Einrichten ist nun beendet. Schliessen Sie das Programm mit einem Klick auf <q>Exit</q>."
     ];
 } elseif ($version == "ce") {
     $steps = [
@@ -43,7 +43,7 @@ if ($version == "pro") {
         'Bestätigen Sie das Öffnen des Programms, indem Sie auf <q>Öffnen</q> klicken.',
         'Bestätigen Sie das <q>PyCharm User Agreement</q> durch das Anwählen der Checkbox. Klicken Sie anschliessend auf <q>Continue</q>.',
         "Falls Sie einen Dialog zu <q>Data Sharing</q> sehen, dann fahren Sie mit einem Klick auf <q>Don't Send</q> fort.",
-        "Die Installation ist nun beendet. Schliessen Sie das Programm mit einem Klick auf <q>das rote Kreuz</q>."
+        "Das Einrichten ist nun beendet. Schliessen Sie das Programm mit einem Klick auf <q>das rote Kreuz</q>."
     ];
 }
 $fullOs = "macOS Ventura (13.x)";
