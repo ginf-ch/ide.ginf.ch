@@ -11,7 +11,7 @@ if ($numberOfSteps % 2 != 0) {
     $bgClass = "";
 }
 ?>
-<section class="hero is-fullheight <?php echo $bgClass; ?>" id="<?php echo $os;?>-comic">
+<section class="hero is-fullheight <?php echo $bgClass; ?>" id="<?php echo $os; ?>-comic">
     <div class="hero-body">
         <div class="container">
             <div class="columns is-centered">
