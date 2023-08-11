@@ -1,8 +1,17 @@
-# Installationsanleitung für PyCharm
+# Installationsanleitung für Entwicklungsumgebungen (IDE)
+
+## PyCharm
+
+### macOS
+
+- Community Edition
+- Professional
+
+### Windows
+
+- Community Edition
+- Professional
+
+## PhpStorm
 
 - macOS
-  - PyCharm Community Edition
-  - PyCharm Professional
-- Windows
-  - PyCharm Community Edition
-  - PyCharm Professional
