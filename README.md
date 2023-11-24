@@ -15,3 +15,4 @@
 ## PhpStorm
 
 - macOS
+- Windows
