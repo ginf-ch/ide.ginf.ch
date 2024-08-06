@@ -17,17 +17,6 @@ $searchParams = $_SERVER['QUERY_STRING'];
                 <div class="column is-two-thirds-desktop">
                     <div class="tabs is-toggle is-fullwidth is-large is-primary">
                         <ul>
-                            <li id="pycharm-ce-tab-desktop">
-                                <a href="<?php echo "index.php?$searchParams&version=ce#start" ?>">
-                                    <span class="icon-text">
-                                        <span class="icon">
-                                            <i class="fa-solid fa-cube" aria-hidden="true"></i>
-                                        </span>
-                                        <span class="is-hidden-tablet">CE</span>
-                                        <span class="is-hidden-mobile">Community Edition</span>
-                                    </span>
-                                </a>
-                            </li>
                             <li id="pycharm-pro-tab-desktop">
                                 <a href="<?php echo "index.php?$searchParams&version=pro#start" ?>">
                                     <span class="icon-text">
