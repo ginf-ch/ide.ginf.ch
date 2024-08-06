@@ -1,17 +1,19 @@
 # Installationsanleitung für Entwicklungsumgebungen (IDE)
 
+- Installationsanleitung mit PyCharm 2024.1.4 durchgeführt.
+
 ## PyCharm
 
 ### macOS
 
-- Community Edition
+- Community Edition (offline, nicht aktualisiert)
 - Professional
 
 ### Windows
 
-- Community Edition
+- Community Edition (offline, nicht aktualisiert)
 - Professional
 
 ## PhpStorm
 
-- macOS
+- macOS (offline, nicht aktualisiert)
